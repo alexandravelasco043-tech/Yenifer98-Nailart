@@ -1,0 +1,14 @@
+YENIFER BOLAÑOS NAILART
+
+Archivos de la aplicación web instalable:
+- index.html: agenda y calculadora
+- manifest.json: configuración de instalación
+- sw.js: funcionamiento sin conexión (service worker)
+- icon-192.png e icon-512.png: iconos
+
+IMPORTANTE:
+1. Para instalar como aplicación y habilitar el modo sin conexión, debe publicarse primero en una dirección HTTPS (por ejemplo, Netlify).
+2. Después de abrirla una vez con internet, el service worker guarda los archivos para uso offline.
+3. Las citas, clientas y precios se guardan localmente en el navegador de ese celular.
+4. Usa Ajustes > Exportar copia periódicamente. No borres los datos del navegador sin hacer respaldo.
+5. Los precios iniciales están en $0 para que puedas introducir los tuyos en Servicios y precios.

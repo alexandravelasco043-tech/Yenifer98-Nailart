@@ -1,0 +1,22 @@
+{
+  "name": "Yenifer Bolaños Nailart",
+  "short_name": "Yenifer Nailart",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf6f8",
+  "theme_color": "#8d536e",
+  "description": "Agenda de citas offline para Yenifer Bolaños Nailart",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
